@@ -1,0 +1,40 @@
+```json
+{
+    "payment_info": {
+        "Nom Fournisseur": "NATIXIS",
+        "Adresse Fournisseur": "PARIS 75, 75008",
+        "Reference Paiement": "XXX-XXX-000-TOG-2867",
+        "Date Paiement": "11/02/2025",
+        "Méthode Paiement": "Electronic Funds Transfer",
+        "Information Banque": "branch 401",
+        "Total": "378,885.00"
+    },
+    "table": [
+        {"Num Facture": "FAC2025010165", "Date Facture": "31/01/2025", "Piece": "00463521", "Montant Facture": "25,080.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "25,080.00"},
+        {"Num Facture": "FAC2025010166", "Date Facture": "31/01/2025", "Piece": "00463522", "Montant Facture": "11,280.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "11,280.00"},
+        {"Num Facture": "FAC2025010167", "Date Facture": "31/01/2025", "Piece": "00463479", "Montant Facture": "14,124.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "14,124.00"},
+        {"Num Facture": "FAC2025010168", "Date Facture": "31/01/2025", "Piece": "00463480", "Montant Facture": "15,120.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "15,120.00"},
+        {"Num Facture": "FAC2025010169", "Date Facture": "31/01/2025", "Piece": "00463481", "Montant Facture": "19,008.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "19,008.00"},
+        {"Num Facture": "FAC2025010170", "Date Facture": "31/01/2025", "Piece": "00463482", "Montant Facture": "15,708.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "15,708.00"},
+        {"Num Facture": "FAC2025010172", "Date Facture": "31/01/2025", "Piece": "00463575", "Montant Facture": "13,356.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "13,356.00"},
+        {"Num Facture": "FAC2025010173", "Date Facture": "31/01/2025", "Piece": "00463483", "Montant Facture": "18,480.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "18,480.00"},
+        {"Num Facture": "FAC2025010174", "Date Facture": "31/01/2025", "Piece": "00463484", "Montant Facture": "17,640.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "17,640.00"},
+        {"Num Facture": "FAC2025010175", "Date Facture": "31/01/2025", "Piece": "00463486", "Montant Facture": "17,286.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "17,286.00"},
+        {"Num Facture": "FAC2025010177", "Date Facture": "31/01/2025", "Piece": "00463576", "Montant Facture": "1,824.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "1,824.00"},
+        {"Num Facture": "FAC2025010178", "Date Facture": "31/01/2025", "Piece": "00463487", "Montant Facture": "16,320.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "16,320.00"},
+        {"Num Facture": "FAC2025010180", "Date Facture": "31/01/2025", "Piece": "00463488", "Montant Facture": "13,680.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "13,680.00"},
+        {"Num Facture": "FAC2025010181", "Date Facture": "31/01/2025", "Piece": "00463489", "Montant Facture": "12,240.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "12,240.00"},
+        {"Num Facture": "FAC2025010183", "Date Facture": "31/01/2025", "Piece": "00463490", "Montant Facture": "11,328.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "11,328.00"},
+        {"Num Facture": "FAC2025010184", "Date Facture": "31/01/2025", "Piece": "00463491", "Montant Facture": "6,240.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "6,240.00"},
+        {"Num Facture": "FAC2025010187", "Date Facture": "31/01/2025", "Piece": "00463492", "Montant Facture": "9,450.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "9,450.00"},
+        {"Num Facture": "FAC2025010190", "Date Facture": "31/01/2025", "Piece": "00463579", "Montant Facture": "12,540.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "12,540.00"},
+        {"Num Facture": "FAC2025010199", "Date Facture": "31/01/2025", "Piece": "00463493", "Montant Facture": "15,120.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "15,120.00"},
+        {"Num Facture": "FAC2025010200", "Date Facture": "31/01/2025", "Piece": "00463494", "Montant Facture": "22,230.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "22,230.00"},
+        {"Num Facture": "FAC2025010202", "Date Facture": "31/01/2025", "Piece": "00463500", "Montant Facture": "26,400.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "26,400.00"},
+        {"Num Facture": "FAC2025010203", "Date Facture": "31/01/2025", "Piece": "00463523", "Montant Facture": "20,400.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "20,400.00"},
+        {"Num Facture": "FAC2025010204", "Date Facture": "31/01/2025", "Piece": "00463495", "Montant Facture": "16,632.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "16,632.00"},
+        {"Num Facture": "FAC2025010206", "Date Facture": "31/01/2025", "Piece": "00463524", "Montant Facture": "13,803.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "13,803.00"},
+        {"Num Facture": "FAC2025010208", "Date Facture": "31/01/2025", "Piece": "00463525", "Montant Facture": "13,596.00", "Escompte Pris": "0.00", "Frais Retard": "0.00", "Montant Paye": "13,596.00"}
+    ]
+}
+```
