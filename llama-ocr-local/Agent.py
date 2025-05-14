@@ -12,15 +12,16 @@ Voici le texte extrait :
 
 {content}
 
-Ta tâche est de retourner un objet JSON avec deux champs :
-1. `payment_info` : les infos de paiement, comme dans l'exemple ci-dessous.
-2. `table` : une table combinée extraite à partir de toutes les tables visibles dans le texte , au format JSON (type pandas DataFrame).
+Ta tâche est de retourner un objet JSON avec trois champs :
+1. `company_name` : le nom de la société émettrice (trouvé dans l'en-tête/logo, généralement en haut de chaque page)
+2. `payment_info` : les infos de paiement, comme dans l'exemple ci-dessous.
+3. `table` : une table combinée extraite à partir de toutes les tables visibles dans le texte , au format JSON (type pandas DataFrame).
 
 Exemple de format :
 
-{{
+{{  "Nom Societe":"...", // nom de la société émettrice (pas le fournisseur)
     "payment_info": {{
-        "Nom Fournisseur": "...",
+        "Nom Fournisseur": "...",  // Nom exact du fournisseur bénéficiaire
         "Adresse Fournisseur": "...",
         ...,
         "Total":...
@@ -30,6 +31,23 @@ Exemple de format :
         ...
     ]
 }}
+Règles de formatage STRICTES :
+1. Nombres/montants : 
+   - Toujours en format float (point comme séparateur décimal)
+   - Supprimer les séparateurs de milliers
+   - Exemple : "378 885,00 €" → 378885.00
+
+2. Dates :
+   - Toujours en format ISO français (JJ/MM/AAAA)
+
+3. Numéros de référence :
+   - Garder exactement comme dans le texte original
+   - Ne pas modifier les tirets ou espaces
+   - Exemple : "XXX-XXX-000-TOG-2867" → "XXX-XXX-000-TOG-2867"
+
+4. Adresses :
+   - Garder la casse originale
+   - Ne pas modifier la ponctuation
 
 Retourne uniquement le JSON & concatenater les deux tables des differents page existe dans le fichier .md .
 """

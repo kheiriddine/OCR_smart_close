@@ -1,33 +1,37 @@
-# Résultats OCR - 5/14/2025, 3:41:54 PM
+# Résultats OCR - 5/14/2025, 4:20:50 PM
 
 ## NX0000362967PARIS5.pdf - Page 1
 
-# Avis Paiement
+# NATIXIS
+## Avis Paiement
 
-## NATIXIS
+**Page 1 of 2**
 
-*A: Nom Fournisseur: QUANTEAM
-Adresse Fournisseur: 8 RUE EULER PARIS 75, 75008
-Info. Paiement: 0199833
-Reference Paiement: 12/02/2025
-Date Paiement: Methode Paiement: Electronic Funds Transfer Code Banque Narrow Street Numbers: CIC
+**Date: 11/02/2025**
 
-## Information Banque
+**Nom Fournisseur:** QUANTEAM
+**Adresse Fournisseur:** 8 RUE EULER, PARIS 75, 75008
 
-Compte Bancaire: 30066 *********401
+**Information Ref:**
+* Cycle Paiement: 000TOG
+* Num Cycle Paiement: 2867
 
-## Information Ref
+**Info. Paiement:**
+* Reference Paiement: 0199833
+* Date Paiement: 12/02/2025
+* Methode Paiement: Electronic Funds Transfer
+* Code Banque: 30066
+* Nom Banque: CIC
+* Code Agence: 10646
+* Nom Agence:
 
-Cycle Paiement: 000TOG
-Num Cycle Paiement: 2867
-
-**Facture**
+**Table:**
 
 | Num facture | Date facture | Piece | Montant Facture | Escompte Pris | Frais Retard | Montant Paye |
 | --- | --- | --- | --- | --- | --- | --- |
 | FAC2025010165 | 31/01/2025 | 00463521 | 25,080.00 | 0.00 | 0.00 | 25,080.00 |
 | FAC2025010166 | 31/01/2025 | 00463522 | 11,280.00 | 0.00 | 0.00 | 11,280.00 |
-| FAC2025010167 | 31/01/2025 | 00463479 | 14,124.00 | 0.00 | 0.00 | 14,124.00 |
+| FAC2025010167 | 31/01/2025 | 00463547 | 14,124.00 | 0.00 | 0.00 | 14,124.00 |
 | FAC2025010168 | 31/01/2025 | 00463480 | 15,120.00 | 0.00 | 0.00 | 15,120.00 |
 | FAC2025010169 | 31/01/2025 | 00463481 | 19,008.00 | 0.00 | 0.00 | 19,008.00 |
 | FAC2025010170 | 31/01/2025 | 00463482 | 15,708.00 | 0.00 | 0.00 | 15,708.00 |
@@ -45,13 +49,9 @@ Num Cycle Paiement: 2867
 | FAC2025010190 | 31/01/2025 | 00463579 | 12,540.00 | 0.00 | 0.00 | 12,540.00 |
 | FAC2025010199 | 31/01/2025 | 00463493 | 15,120.00 | 0.00 | 0.00 | 15,120.00 |
 | FAC2025010200 | 31/01/2025 | 00463494 | 22,230.00 | 0.00 | 0.00 | 22,230.00 |
-| FAC2025010202 | 31/01/2025 | 00463580 | 26,400.00 | 0.00 | 0.00 | 26,400.00 |
+| FAC2025010202 | 31/01/2025 | 00463540 | 26,400.00 | 0.00 | 0.00 | 26,400.00 |
 | FAC2025010203 | 31/01/2025 | 00463523 | 20,400.00 | 0.00 | 0.00 | 20,400.00 |
-| FAC2025010204 | 31/01/2025 | 00463495 | 15,632.00 | 0.00 | 0.00 | 15,632.00 |
-
-**Page 1 of 2**
-
-**11/02/2025**
+| FAC2025010204 | 31/01/2025 | 00463495 | 16,832.00 | 0.00 | 0.00 | 16,832.00 |
 
 **Prive et Confidentiel**
 
@@ -59,21 +59,24 @@ Num Cycle Paiement: 2867
 
 ## NX0000362967PARIS5.pdf - Page 2
 
-**NATIXIS**
+# NATIXIS
 
-**Avis Paiement**
+### Avis Paiement
 
-**11/02/2025**
-**Page 2 of 2**
-
-| **Num facture** | **Date facture** | **Prix** | **Montant Facture** | **Escompte Pris** | **Frais Retard** | **Montant Paye** |
+| Num facture | Date facture | Piece | Montant Facture | Escompte Pris | Frais Retard | Montant Paye |
 | --- | --- | --- | --- | --- | --- | --- |
 | FAC2025010206 | 31/01/2025 | 00463524 | 13,803.00 | 0.00 | 0.00 | 13,803.00 |
 | FAC2025010208 | 31/01/2025 | 00463525 | 13,596.00 | 0.00 | 0.00 | 13,596.00 |
 
-**Total:** **378,885.00**
+### Total:
 
-**Prive et Confidentiel**
+**378,885.00**
+
+#### Prive et Confidentiel
+
+**Page 2 of 2**
+
+**Date:** 11/02/2025
 
 ---
 
